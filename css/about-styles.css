@@ -1,0 +1,33 @@
+/* General body styling */
+body {
+    font-family: Georgia, serif;
+    background-color: #fffaf0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #8b0000;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+/* Navigation styling */
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+    line-height: 1.6;
+}
